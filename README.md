@@ -15,7 +15,7 @@ The Kaggle "Intro to Programming" course covers:
 
 ## Certificate
 You can view my verified certificate here:
-(https://www.kaggle.com/learn/certification/athulpbiju/intro-to-programming)
+[View Certificate](https://www.kaggle.com/learn/certification/athulpbiju/intro-to-programming)
 
 ## My Practice Code
 The included Python file contains my own examples and exercises to reinforce what I learned.
